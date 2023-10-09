@@ -53,7 +53,7 @@ export const ContainerCharacter = styled.div`
 
   @media screen and (max-width: 1000px) {
     > img {
-      width: 90%;
+      width: 85%;
     }
   }
 `;
@@ -77,7 +77,10 @@ export const SectionInformation = styled.section`
   }
 
   > p {
+    text-align: justify;
+    line-height: 1.25;
     max-width: 60rem;
+    padding-right: 2rem;
     font-size: 1.8rem;
   }
 
@@ -88,7 +91,7 @@ export const SectionInformation = styled.section`
     padding: 0 2rem 4rem 2rem;
 
     > p {
-      text-align: justify;
+      padding: 0;
     }
   }
 

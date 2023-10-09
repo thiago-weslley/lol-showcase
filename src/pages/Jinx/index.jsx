@@ -1,18 +1,17 @@
-import { Background, Container, ContainerCharacter } from "./styles";
-import character from "../../assets/characters/jinx.png";
+import { Background, Container } from "./styles";
 
+import { Character } from "../../components/Character";
 import { Description } from "../../components/Description";
 
 import title from "../../assets/titles/jinx_title.svg";
+import jinx from "../../assets/characters/jinx.png";
 
 export function Jinx() {
   return (
     <>
       <Background></Background>
       <Container>
-        <ContainerCharacter>
-          <img src={character} alt="Imagem do personagem - Jinx" />
-        </ContainerCharacter>
+        <Character img={jinx} alt="Imagem do personagem - Jinx" />
 
         <Description
           titleImg={title}

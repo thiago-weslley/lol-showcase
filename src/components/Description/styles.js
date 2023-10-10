@@ -29,7 +29,7 @@ export const DescriptionContainer = styled.section`
     width: 100%;
     align-items: center;
 
-    padding: 0 2rem 4rem 2rem;
+    padding: 0 2rem 5rem 2rem;
 
     > p {
       padding: 0;

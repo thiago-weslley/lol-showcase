@@ -4,6 +4,7 @@ import { Container } from "./styles";
 import { Background } from "../../components/Background";
 import { Character } from "../../components/Character";
 import { Description } from "../../components/Description";
+import { Buttons } from "../../components/Buttons";
 
 //Assets
 import background from "../../assets/backgrounds/jinx_main.svg";
@@ -27,6 +28,8 @@ export function Jinx() {
           um rastro de destruição e pânico por onde passa. Jinx abomina o tédio e
           deixa alegremente sua marca caótica de pandemônio aonde quer que vá."
         />
+
+        <Buttons link1="/garen" link2="/ashe" />
       </Container>
     </>
   );

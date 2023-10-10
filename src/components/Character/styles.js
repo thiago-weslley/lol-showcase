@@ -5,14 +5,17 @@ export const CharacterImg = styled.div`
   justify-content: center;
   align-items: center;
 
+  height: 70vh;
+
   > img {
-    width: 100%;
+    height: 100%;
     filter: drop-shadow(12px 6px 3px rgba(0, 0, 0));
   }
 
   @media screen and (max-width: 1000px) {
     > img {
-      width: 85%;
+      height: 75%;
+      margin-bottom: 10rem;
     }
   }
 `;

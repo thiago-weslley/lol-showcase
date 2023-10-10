@@ -1,15 +1,19 @@
-import { Background, Container } from "./styles";
+import { Container } from "./styles";
 
+//Components
+import { Background } from "../../components/Background";
 import { Character } from "../../components/Character";
 import { Description } from "../../components/Description";
 
-import title from "../../assets/titles/ashe_title.svg";
+//Assets
+import background from "../../assets/backgrounds/ashe_main.svg";
 import ashe from "../../assets/characters/ashe.svg";
+import title from "../../assets/titles/ashe_title.svg";
 
 export function Ashe() {
   return (
     <>
-      <Background></Background>
+      <Background backgroundImage={background} />
       <Container>
         <Character img={ashe} alt="Imagem do personagem - Ashe" />
 

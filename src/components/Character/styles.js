@@ -15,7 +15,6 @@ export const CharacterImg = styled.div`
   @media screen and (max-width: 1000px) {
     > img {
       height: 75%;
-      margin-bottom: 10rem;
     }
   }
 `;

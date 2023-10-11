@@ -1,4 +1,4 @@
-import { CharacterImg } from "./styles";
+import { CharacterImg } from "./characterStyles";
 
 export function Character({ img, alt }) {
   return (

@@ -1,4 +1,4 @@
-import { BackgroundContainer } from "./styles";
+import { BackgroundContainer } from "./backgroundStyles";
 
 export function Background({ backgroundImage }) {
   return (

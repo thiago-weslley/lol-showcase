@@ -1,8 +1,8 @@
-import { ButtonsContainer } from "./styles";
+import { ButtonsContainer } from "./buttonsStyles";
 
 //Assets
-import caretLeft from "../../assets/icons/CaretLeft.svg";
-import caretRight from "../../assets/icons/CaretRight.svg";
+import caretLeft from "../assets/icons/CaretLeft.svg";
+import caretRight from "../assets/icons/CaretRight.svg";
 
 export function Buttons({ link1, link2 }) {
   return (

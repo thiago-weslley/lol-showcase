@@ -1,4 +1,4 @@
-import { DescriptionContainer } from "./styles";
+import { DescriptionContainer } from "./descriptionStyles";
 
 export function Description({ titleImg, subTitle, description }) {
   return (

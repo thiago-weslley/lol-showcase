@@ -7,7 +7,7 @@ import { Description } from "../../components/Description";
 import { Buttons } from "../../components/Buttons";
 
 //Assets
-import background from "../../assets/backgrounds/garen_main.svg";
+import background from "../../assets/backgrounds/garen_main.png";
 import ashe from "../../assets/characters/garen.svg";
 import title from "../../assets/titles/garen_title.svg";
 

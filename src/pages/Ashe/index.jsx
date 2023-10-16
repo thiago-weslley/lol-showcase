@@ -7,7 +7,7 @@ import { Description } from "../../components/Description";
 import { Buttons } from "../../components/Buttons";
 
 //Assets
-import background from "../../assets/backgrounds/ashe_main.svg";
+import background from "../../assets/backgrounds/ashe_main.png";
 import ashe from "../../assets/characters/ashe.svg";
 import title from "../../assets/titles/ashe_title.svg";
 

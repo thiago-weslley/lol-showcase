@@ -7,7 +7,7 @@ import { Description } from "../../components/Description";
 import { Buttons } from "../../components/Buttons";
 
 //Assets
-import background from "../../assets/backgrounds/jinx_main.svg";
+import background from "../../assets/backgrounds/jinx_main.png";
 import jinx from "../../assets/characters/jinx.png";
 import title from "../../assets/titles/jinx_title.svg";
 

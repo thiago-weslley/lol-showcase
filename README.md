@@ -30,7 +30,8 @@ O projetolol-showcase é uma aplicação React que apresenta páginas personaliz
 - <b>react-router-dom</b>: para gerenciamento de rotas.
 - <b>framer-motion:</b> para animações de entrada.
 - <b>Assets:</b> para imagens e recursos do League of Legends (LOL).
-  <br>
+  
+<br>
 
 ## 💻 Instalar e rodar o projeto
 

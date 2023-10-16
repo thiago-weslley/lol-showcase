@@ -4,8 +4,6 @@
 
 <p align="center"><img src="./src/assets/Mockup.png" width="800px"></p>
 
-<br>
-
 ## 📄 Descrição
 
 O projetolol-showcase é uma aplicação React que apresenta páginas personalizadas para alguns personagens do universo de League of Legends (LOL). Cada página de personagem exibe um efeito de entrada atraente, onde um background cobre a tela antes de revelar as informações do personagem. Esta aplicação é uma maneira divertida de explorar e aprender mais sobre a história de alguns campeões favoritos do League of Legends.
